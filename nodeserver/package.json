@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "mechat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
